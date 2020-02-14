@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial2</string>
+    <string name="serverPrompt">Choose a Server</string>
+    <string-array name="servers">
+        <item>Delhi</item>
+        <item>Mumbia</item>
+        <item>Ahmedabad</item>
+        <item>Chennai</item>
+        <item>Jaipur</item>
+    </string-array>
+</resources>
